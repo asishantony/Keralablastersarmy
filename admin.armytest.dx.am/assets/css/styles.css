@@ -1,0 +1,102 @@
+body{
+	background-color: #2f4050;
+}
+.col-sm-10 {
+	background-color:#ECEAE0;
+}
+.col-sm-2 {
+	color:#ffffff;
+}
+#Side_menu a{
+	color:#9fb1c2;
+}
+#Side_menu .active a{
+	color:#ffffff;
+	background-color: #27AAE1;
+	font-weight: Bold;
+}
+#Side_menu  a:hover{
+	color:#ffffff;
+	background-color: #1ab394;
+	font-weight: Bold;
+	display: block;
+}
+ #Countdown p {
+  text-align: center;
+  font-size: 60px;
+  margin-top:0px;
+ }
+ .bgimg {
+ 
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+ font-family: "Courier New", Courier, monospace;
+    font-size: 55px;
+}
+.headingcount {
+position: center;
+ font-family: Impact, fantasy;
+    font-size: 50px;
+    
+    }
+    
+
+.wc{
+    height: 50%;
+    width: 50%;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 8px; 
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+body {
+  background-color:#fff;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+}
+
+.container {
+    padding: 25px;
+    position: fixed;
+}
+
+.form-login {
+    background-color: #EDEDED;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    box-shadow:0 1px 0 #cfcfcf;
+}
+
+h4 { 
+ border:0 solid #fff; 
+ border-bottom-width:1px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.wrapper {
+    text-align: center;
+}
+ #heading_article { 
+color: #d54d7b;
+font-family: "Great Vibes", cursive;
+font-size: 165px;
+line-height: 160px;
+font-weight: normal; 
+margin-bottom: 0px;
+margin-top: 40px; 
+text-align: center;
+text-shadow: 0 1px 1px #fff; }
