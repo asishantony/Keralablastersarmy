@@ -1,0 +1,53 @@
+body{
+	background-color: #2f4050;
+}
+.col-sm-10 {
+	background-color:#ECEAE0;
+}
+.col-sm-2 {
+	color:#ffffff;
+}
+#Side_menu a{
+	color:#9fb1c2;
+}
+#Side_menu .active a{
+	color:#ffffff;
+	background-color: #27AAE1;
+	font-weight: Bold;
+}
+#Side_menu  a:hover{
+	color:#ffffff;
+	background-color: #1ab394;
+	font-weight: Bold;
+	display: block;
+}
+ #Countdown p {
+  text-align: center;
+  font-size: 60px;
+  margin-top:0px;
+ }
+ .bgimg {
+ 
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+ font-family: "Courier New", Courier, monospace;
+    font-size: 55px;
+}
+.headingcount {
+position: center;
+ font-family: Impact, fantasy;
+    font-size: 50px;
+    
+    }
+    
+
+.wc{
+    height: 50%;
+    width: 50%;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 8px; 
